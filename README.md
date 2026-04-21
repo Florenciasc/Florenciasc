@@ -81,5 +81,5 @@ Busco aportar:
 ---
 
 ## 📫 Contacto
-
+📧 fsosacomisso@gmail.com
 💼 http://linkedin.com/in/florenciasosacomisso
