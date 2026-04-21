@@ -83,7 +83,3 @@ Busco aportar:
 ## 📫 Contacto
 
 💼 http://linkedin.com/in/florenciasosacomisso
-
-💼 http://linkedin.com/in/florencia-sosa-comisso
-
-<
