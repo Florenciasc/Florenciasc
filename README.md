@@ -37,6 +37,7 @@ Incluye:
 - App interactiva en Streamlit  
 
 👉 https://github.com/Florenciasc/cross-selling-opportunities
+
 👉 Demo en vivo: https://cross-selling-opportunities-recommender.streamlit.app/
 
 ---
@@ -82,4 +83,5 @@ Busco aportar:
 
 ## 📫 Contacto
 📧 fsosacomisso@gmail.com
+
 💼 http://linkedin.com/in/florenciasosacomisso
